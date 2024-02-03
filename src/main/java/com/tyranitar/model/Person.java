@@ -5,6 +5,8 @@ public class Person {
 	private String name;
 		
 	private int age;
+	
+	private int id;
 
 	public String getName() {
 		return name;
@@ -20,6 +22,14 @@ public class Person {
 
 	public void setAge(int age) {
 		this.age = age;
+	}
+
+	public int getId() {
+		return id;
+	}
+
+	public void setId(int id) {
+		this.id = id;
 	} 
 	
 	

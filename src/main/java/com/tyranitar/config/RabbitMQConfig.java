@@ -10,6 +10,6 @@ public class RabbitMQConfig {
 
     @Bean
     public Queue productQueue() {
-        return new Queue("product", true); 
+        return new Queue("file", true); 
     }
 }

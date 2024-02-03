@@ -22,6 +22,4 @@ public class Installment {
 		this.value = value;
 	}
 	
-	
-	
 }
