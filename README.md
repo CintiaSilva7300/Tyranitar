@@ -6,7 +6,7 @@
 * MSQL
 * Java - Spting Boot
 
-# Em um terminal de sua escolha Executar os comano na sequencia para baixar a imagem o RabbitMQ e execuatr:
+# Em um terminal de sua escolha Executar os comando na sequencia para baixar a imagem o RabbitMQ e execuatr:
 
 ```
 docker pull rabbitmq
